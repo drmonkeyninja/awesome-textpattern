@@ -1,0 +1,86 @@
+h1. Awesome Textpattern
+
+A curated list of amazingly awesome Textpattern plugins, resources and shiny things inspired by the "awesome-php":https://github.com/ziadoz/awesome-php idea.
+
+This list is for the latest version	of *Textpattern 4.5.7*.
+
+h2. Contributing
+
+This list is for the community and curated by it so please contribute. See CONTRIBUTING for details.
+
+h2. Table of Contents
+
+* "Plugins":#plugins
+** "Admin":#admin
+** "Comments":#comments
+** "Content":#content
+** "Forms":#forms
+** "Images":#images
+** "Navigation":#nav
+** "SEO":#seo
+** "Social":#social
+** "Video":#video
+** "Miscellaneous":#misc
+* "Resources":#resources
+
+h2(#plugins). Plugins
+
+h3(#admin). Admin
+
+* "hak_tinymce":https://github.com/hakjoon/hak_tinymce - TinyMCE integration for Textpattern.
+* "rah_privileges":https://github.com/gocom/rah_privileges - Configure Textpattern's admin-side user-group privileges through the Preferences panel.
+
+h3(#comments). Comments
+
+* "rah_comments":https://github.com/gocom/rah_comments - Paginated article comments.
+* "rah_comment_spam":https://github.com/gocom/rah_comment_spam - Comment anti-spam plugin.
+
+h3(#content). Content
+
+* "glz_custom_fields":https://github.com/gerhard/glz_custom_fields - Unlimited custom fields.
+* "smd_tags":https://github.com/Bloke/smd_tags - Unlimited, structured taxonomy across content types.
+
+h3(#forms). Forms
+
+* "zem_contact_reborn":https://github.com/Bloke/zem_contact_reborn - Contact forms.
+
+h3(#images). Images
+
+* "smd_thumbnail":https://github.com/Bloke/smd_thumbnail - Multiple image thumbnails of arbitrary dimensions.
+
+h3(#nav). Navigation
+
+* "adi_menu":http://www.greatoceanmedia.com.au/txp/?plugin=adi_menu - Section hierarchy, section menu and breadcrumb trail.
+* "etc_pagination":https://github.com/bloatware/etc-pagination - Paginate everything.
+
+h3(#seo). SEO
+
+* "arc_meta":https://github.com/drmonkeyninja/arc_meta - Meta tags to improve site SEO and social marketing.
+* "rah_sitemap":https://github.com/gocom/rah_sitemap - XML sitemap generator.
+
+h3(#social). Social
+
+Plugins that add social features to Textpattern.
+
+* "arc_social_share":https://github.com/drmonkeyninja/arc_social_share - Social bookmarking.
+* "TXP Tweet":https://github.com/drmonkeyninja/TXP-Tweet - Twitter-Textpattern integration.
+
+h3(#video). Video
+
+* "arc_vimeo":https://github.com/drmonkeyninja/arc_vimeo - Easily embed Vimeo videos.
+* "arc_youtube":https://github.com/drmonkeyninja/arc_youtube - Easily embed Youtube videos.
+
+h3(#misc). Miscellaneous
+
+* "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
+* "rah_flat":https://github.com/gocom/rah_flat - Edit Textpattern's database contents and page templates as flat files.
+* "smd_if":http://stefdawson.com/sw/plugins/smd_if - A generic 'if condition' tester.
+
+h2(#resources). Resources
+
+Various resources, such as books, websites and articles, for improving your Textpattern skills and knowledge.
+
+* "Official website":http://textpattern.com/
+* "Textpattern Documentation":http://www.textpattern.net/wiki/index.php?title=Index
+* "Textpattern Forum":http://forum.textpattern.com/
+* "TXP Tips":http://txptips.com/ - Tips, tutorials and code examples to help build better Textpattern sites.
