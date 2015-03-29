@@ -75,6 +75,7 @@ h3(#misc). Miscellaneous
 * "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
 * "rah_flat":https://github.com/gocom/rah_flat - Edit Textpattern's database contents and page templates as flat files.
 * "smd_if":http://stefdawson.com/sw/plugins/smd_if - A generic 'if condition' tester.
+* "textpattern-installer":https://github.com/gocom/textpattern-installer - Textpattern plugin and theme installer for Composer.
 
 h2(#resources). Resources
 
