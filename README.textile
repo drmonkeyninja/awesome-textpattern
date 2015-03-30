@@ -22,6 +22,7 @@ h2. Table of Contents
 ** "Video":#video
 ** "Miscellaneous":#misc
 * "Resources":#resources
+** "Blogs":#blogs
 
 h2(#plugins). Plugins
 
@@ -85,3 +86,9 @@ Various resources, such as books, websites and articles, for improving your Text
 * "Textpattern Documentation":http://www.textpattern.net/wiki/index.php?title=Index
 * "Textpattern Forum":http://forum.textpattern.com/
 * "TXP Tips":http://txptips.com/ - Tips, tutorials and code examples to help build better Textpattern sites.
+
+h3(#blogs). Blogs
+
+Useful and current Textpattern-related websites and blogs.
+
+* "James Steel":http://jamessteel.co.uk/blog/
