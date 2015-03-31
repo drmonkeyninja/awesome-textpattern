@@ -33,6 +33,7 @@ h3(#admin). Admin
 
 h3(#comments). Comments
 
+* "jnm_recent_comments_unique":https://github.com/juanjonavarro/jnm_recent_comments_unique - Show latest comments.
 * "rah_comments":https://github.com/gocom/rah_comments - Paginated article comments.
 * "rah_comment_spam":https://github.com/gocom/rah_comment_spam - Comment anti-spam plugin.
 
@@ -74,6 +75,7 @@ h3(#video). Video
 h3(#misc). Miscellaneous
 
 * "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
+* "asy_jpcache":https://github.com/netcarver/asy_jpcache - Full Page Caching.
 * "rah_flat":https://github.com/gocom/rah_flat - Edit Textpattern's database contents and page templates as flat files.
 * "smd_if":http://stefdawson.com/sw/plugins/smd_if - A generic 'if condition' tester.
 * "textpattern-installer":https://github.com/gocom/textpattern-installer - Textpattern plugin and theme installer for Composer.
