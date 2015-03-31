@@ -80,6 +80,14 @@ h3(#misc). Miscellaneous
 * "smd_if":http://stefdawson.com/sw/plugins/smd_if - A generic 'if condition' tester.
 * "textpattern-installer":https://github.com/gocom/textpattern-installer - Textpattern plugin and theme installer for Composer.
 
+h2(#plugin_collections). Plugin collections
+
+* "Juanjo Navarro":http://www.juanjonavarro.com/txp-plugins/
+* "Jukka Svahn":http://rahforum.biz/plugins
+* "Robert Wetzlmayr":http://wetzlmayr.com/article/textpattern-plugins
+* "Ruud van Melick":http://vanmelick.com/txp/
+* "Stef Dawson":http://stefdawson.com/sw/plugins
+
 h2(#resources). Resources
 
 Various resources, such as books, websites and articles, for improving your Textpattern skills and knowledge.
