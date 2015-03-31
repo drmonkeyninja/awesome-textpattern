@@ -33,6 +33,7 @@ h3(#admin). Admin
 
 h3(#comments). Comments
 
+* "jnm_recent_comments_unique":https://github.com/juanjonavarro/jnm_recent_comments_unique - Show last comments.
 * "rah_comments":https://github.com/gocom/rah_comments - Paginated article comments.
 * "rah_comment_spam":https://github.com/gocom/rah_comment_spam - Comment anti-spam plugin.
 
