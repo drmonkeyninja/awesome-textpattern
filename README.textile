@@ -60,6 +60,7 @@ h3(#seo). SEO
 * "arc_meta":https://github.com/drmonkeyninja/arc_meta - Meta tags to improve site SEO and social marketing.
 * "arc_redirect":https://github.com/drmonkeyninja/arc_redirect - URL redirect plugin.
 * "rah_sitemap":https://github.com/gocom/rah_sitemap - XML sitemap generator.
+* "wcz_utf8_url":https://github.com/whocarez-textpattern/Unicode-url-for-Textpattern - UTF-8 permlinks instead of transliterated ones
 
 h3(#social). Social
 
