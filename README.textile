@@ -6,7 +6,7 @@ This list is for the latest version	of *Textpattern 4.5.7*.
 
 h2. Contributing
 
-This list is for the community and curated by it so please contribute. See CONTRIBUTING for details.
+This list is for the community and curated by it, so please contribute. See CONTRIBUTING for details.
 
 h2. Table of Contents
 
@@ -77,8 +77,8 @@ h3(#video). Video
 
 h3(#misc). Miscellaneous
 
-* "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
 * "asy_jpcache":https://github.com/netcarver/asy_jpcache - Full Page Caching.
+* "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
 * "rah_flat":https://github.com/gocom/rah_flat - Edit Textpattern's database contents and page templates as flat files.
 * "rvm_css":https://vanmelick.com/txp/rvm_css.php?help - Static CSS caching.
 * "smd_if":http://stefdawson.com/sw/plugins/smd_if - A generic 'if condition' tester.
@@ -88,11 +88,16 @@ h2(#resources). Resources
 
 Various resources, such as books, websites and articles, for improving your Textpattern skills and knowledge.
 
+h3(#resources-official). Official resources
+
 * "Official website":http://textpattern.com/
 * "Textpattern Documentation":http://www.textpattern.net/wiki/index.php?title=Index
 * "Textpattern Forum":http://forum.textpattern.com/
-* "TXP Tips":http://txptips.com/ - Tips, tutorials and code examples to help build better Textpattern sites.
+
+h3(#resources-third-party). Third-party resources
+
 * "Create a Textpattern Theme":http://jamessteel.co.uk/blog/create-a-textpattern-theme - Learn to build a Textpattern theme from scratch in this seven part guide by James Steel
+* "TXP Tips":http://txptips.com/ - Tips, tutorials and code examples to help build better Textpattern sites.
 
 h3(#blogs). Blogs
 
