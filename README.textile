@@ -104,3 +104,7 @@ h3(#blogs). Blogs
 Useful and current Textpattern-related websites and blogs.
 
 * "James Steel":http://jamessteel.co.uk/blog/
+
+h3(#software-integration). Web development software integration
+
+* "Textpattern for Panic Coda":https://github.com/philwareham/Textpattern-for-Panic-Coda
