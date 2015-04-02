@@ -33,6 +33,7 @@ h3(#admin). Admin
 
 h3(#comments). Comments
 
+* "arc_admin_comment_preview":https://github.com/drmonkeyninja/arc_admin_comment_preview - Adds a comment preview to admin.
 * "jnm_recent_comments_unique":https://github.com/juanjonavarro/jnm_recent_comments_unique - Show latest comments.
 * "rah_comments":https://github.com/gocom/rah_comments - Paginated article comments.
 * "rah_comment_spam":https://github.com/gocom/rah_comment_spam - Comment anti-spam plugin.
@@ -91,7 +92,7 @@ Various resources, such as books, websites and articles, for improving your Text
 * "Textpattern Documentation":http://www.textpattern.net/wiki/index.php?title=Index
 * "Textpattern Forum":http://forum.textpattern.com/
 * "TXP Tips":http://txptips.com/ - Tips, tutorials and code examples to help build better Textpattern sites.
-* "Create a Textpattern Theme":http://jamessteel.co.uk/blog/create-a-textpattern-theme - Learn to build a Textpattern theme from scratch in this seven part guide by James Steel 
+* "Create a Textpattern Theme":http://jamessteel.co.uk/blog/create-a-textpattern-theme - Learn to build a Textpattern theme from scratch in this seven part guide by James Steel
 
 h3(#blogs). Blogs
 
