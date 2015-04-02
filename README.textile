@@ -22,7 +22,10 @@ h2. Table of Contents
 ** "Video":#video
 ** "Miscellaneous":#misc
 * "Resources":#resources
+** "Official resources":#resources-official
+** "Third-party resources":#resources-third-party
 ** "Blogs":#blogs
+** "Web development software integration":#software-integration
 
 h2(#plugins). Plugins
 
