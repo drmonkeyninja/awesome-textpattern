@@ -85,6 +85,7 @@ h3(#misc). Miscellaneous
 * "rah_flat":https://github.com/gocom/rah_flat - Edit Textpattern's database contents and page templates as flat files.
 * "rvm_css":https://vanmelick.com/txp/rvm_css.php?help - Static CSS caching.
 * "smd_if":http://stefdawson.com/sw/plugins/smd_if - A generic 'if condition' tester.
+* "upm_pending_notify":https://github.com/whocarez-textpattern/upm_pending_notify - Pending article notification.
 * "textpattern-installer":https://github.com/gocom/textpattern-installer - Textpattern plugin and theme installer for Composer.
 
 h2(#resources). Resources
