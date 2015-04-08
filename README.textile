@@ -34,6 +34,8 @@ h3(#admin). Admin
 
 * "hak_tinymce":https://github.com/hakjoon/hak_tinymce - TinyMCE integration for Textpattern.
 * "rah_privileges":https://github.com/gocom/rah_privileges - Configure Textpattern's admin-side user-group privileges through the Preferences panel.
+* "spf_codemirror":https://github.com/spiffin/spf_codemirror - CodeMirror syntax-highlighting and Emmet code-completion for Pages, Forms, Styles and more.
+* "spf_js":https://github.com/spiffin/spf_js - Javascript management (similar to Presentation > Styles).
 
 h3(#comments). Comments
 
