@@ -1,8 +1,8 @@
 h1. Awesome Textpattern
 
-A curated list of amazingly awesome Textpattern plugins, resources and shiny things inspired by the "awesome-php":https://github.com/ziadoz/awesome-php idea.
+A curated list of amazingly awesome "Textpattern CMS":http://textpattern.com plugins, resources and shiny things inspired by the "awesome-php":https://github.com/ziadoz/awesome-php idea.
 
-This list is for the latest version	of *Textpattern 4.5.7*.
+*This list is for the latest version of Textpattern (v4.5.7).*
 
 h2. Contributing
 
@@ -35,7 +35,7 @@ h3(#admin). Admin
 * "hak_tinymce":https://github.com/hakjoon/hak_tinymce - TinyMCE integration for Textpattern.
 * "rah_privileges":https://github.com/gocom/rah_privileges - Configure Textpattern's admin-side user-group privileges through the Preferences panel.
 * "spf_codemirror":https://github.com/spiffin/spf_codemirror - CodeMirror syntax-highlighting and Emmet code-completion for Pages, Forms, Styles and more.
-* "spf_js":https://github.com/spiffin/spf_js - Javascript management (similar to Presentation > Styles).
+* "spf_js":https://github.com/spiffin/spf_js - JavaScript management (similar to Presentation → Styles).
 
 h3(#comments). Comments
 
@@ -87,7 +87,7 @@ Plugins that add social features to Textpattern.
 h3(#video). Video
 
 * "arc_vimeo":https://github.com/drmonkeyninja/arc_vimeo - Easily embed Vimeo videos.
-* "arc_youtube":https://github.com/drmonkeyninja/arc_youtube - Easily embed Youtube videos.
+* "arc_youtube":https://github.com/drmonkeyninja/arc_youtube - Easily embed YouTube videos.
 
 h3(#misc). Miscellaneous
 
@@ -95,7 +95,7 @@ h3(#misc). Miscellaneous
 * "rah_flat":https://github.com/gocom/rah_flat - Edit Textpattern's database contents and page templates as flat files.
 * "smd_if":http://stefdawson.com/sw/plugins/smd_if - A generic 'if condition' tester.
 * "textpattern-installer":https://github.com/gocom/textpattern-installer - Textpattern plugin and theme installer for Composer.
-* "upm_pending_notify":https://github.com/wcz-txp/upm_pending_notify - Pending article notification.
+* "upm_pending_notify":https://github.com/wcz-txp/upm_pending_notify - Pending article notifications.
 
 h2(#resources). Resources
 
@@ -110,7 +110,7 @@ h3(#resources-official). Official resources
 
 h3(#resources-third-party). Third-party resources
 
-* "Create a Textpattern Theme":http://jamessteel.co.uk/blog/create-a-textpattern-theme - Learn to build a Textpattern theme from scratch in this seven part guide by James Steel
+* "Create a Textpattern Theme":http://jamessteel.co.uk/blog/create-a-textpattern-theme - Learn to build a Textpattern theme from scratch in this seven part guide by James Steel.
 * "TXP Tips":http://txptips.com/ - Tips, tutorials and code examples to help build better Textpattern sites.
 
 h3(#blogs). Blogs
