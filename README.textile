@@ -6,7 +6,7 @@ This list is for the latest version	of *Textpattern 4.5.7*.
 
 h2. Contributing
 
-This list is for the community and curated by it, so please contribute. See CONTRIBUTING for details.
+This list is for the community and curated by it, so please contribute. See "CONTRIBUTING":https://github.com/drmonkeyninja/awesome-textpattern/blob/master/CONTRIBUTING.textile for details.
 
 h2. Table of Contents
 
@@ -17,6 +17,7 @@ h2. Table of Contents
 ** "Forms":#forms
 ** "Images":#images
 ** "Navigation":#nav
+** "Performance":#performance
 ** "SEO":#seo
 ** "Social":#social
 ** "Video":#video
@@ -59,6 +60,14 @@ h3(#nav). Navigation
 * "adi_menu":http://www.greatoceanmedia.com.au/txp/?plugin=adi_menu - Section hierarchy, section menu and breadcrumb trail.
 * "etc_pagination":https://github.com/bloatware/etc-pagination - Paginate everything.
 
+h3(#performance). Performance
+
+* "asy_jpcache":https://github.com/netcarver/asy_jpcache - Full Page Caching.
+* "rah_cache":https://github.com/gocom/rah_cache - Cache dynamic pages as flat files.
+* "rah_cache_minify":https://github.com/gocom/rah_cache_minify - HTML compressor module for rah_cache plugin.
+* "rah_memcached":https://github.com/gocom/rah_memcached - Store parts of Textpattern templates in "Memcached":http://memcached.org.
+* "rvm_css":https://vanmelick.com/txp/rvm_css.php?help - Static CSS caching.
+
 h3(#seo). SEO
 
 * "arc_meta":https://github.com/drmonkeyninja/arc_meta - Meta tags to improve site SEO and social marketing.
@@ -80,10 +89,8 @@ h3(#video). Video
 
 h3(#misc). Miscellaneous
 
-* "asy_jpcache":https://github.com/netcarver/asy_jpcache - Full Page Caching.
 * "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
 * "rah_flat":https://github.com/gocom/rah_flat - Edit Textpattern's database contents and page templates as flat files.
-* "rvm_css":https://vanmelick.com/txp/rvm_css.php?help - Static CSS caching.
 * "smd_if":http://stefdawson.com/sw/plugins/smd_if - A generic 'if condition' tester.
 * "textpattern-installer":https://github.com/gocom/textpattern-installer - Textpattern plugin and theme installer for Composer.
 * "upm_pending_notify":https://github.com/wcz-txp/upm_pending_notify - Pending article notification.
@@ -95,6 +102,7 @@ Various resources, such as books, websites and articles, for improving your Text
 h3(#resources-official). Official resources
 
 * "Official website":http://textpattern.com/
+* "Textpattern Default Theme":https://github.com/textpattern/textpattern-default-theme - the default theme that ships with Textpattern.
 * "Textpattern Documentation":http://www.textpattern.net/wiki/index.php?title=Index
 * "Textpattern Forum":http://forum.textpattern.com/
 
