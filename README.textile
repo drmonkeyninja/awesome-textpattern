@@ -120,6 +120,7 @@ h3(#blogs). Blogs
 Useful and current Textpattern-related websites and blogs.
 
 * "James Steel":http://jamessteel.co.uk/blog/
+* "TXP Talk":http://txptalk.com/
 
 h3(#software-integration). Web development software integration
 
