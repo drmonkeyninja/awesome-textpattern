@@ -37,6 +37,7 @@ h3(#admin). Admin
 * "spf_codemirror":https://github.com/spiffin/spf_codemirror - CodeMirror syntax-highlighting and Emmet code-completion for Pages, Forms, Styles and more.
 * "spf_js":https://github.com/spiffin/spf_js - JavaScript management (similar to Presentation → Styles).
 * "tom_image_grid":https://github.com/Sacripant/tom_image_grid - Provides a more compact grid interface for the image admin panel.
+* "yab_copy_to_new":https://github.com/trenc/yab_copy_to_new - Allows for easy copying of articles from the Write panel.
 
 h3(#comments). Comments
 
