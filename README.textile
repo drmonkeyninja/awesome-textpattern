@@ -86,6 +86,7 @@ Plugins that add social features to Textpattern.
 
 * "arc_social_share":https://github.com/drmonkeyninja/arc_social_share - Social bookmarking.
 * "TXP Tweet":https://github.com/drmonkeyninja/TXP-Tweet - Twitter-Textpattern integration.
+* "pat_article_social":https://github.com/cara-tm/pat_article_social - Social bookmarking with share counts.
 
 h3(#video). Video
 
