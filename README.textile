@@ -34,6 +34,7 @@ h3(#admin). Admin
 
 * "cbe_frontauth":https://github.com/ClaireBrione/cbe_frontauth - Manage backend connections from frontend and protect content from non-logged in users.
 * "hak_tinymce":https://github.com/hakjoon/hak_tinymce - TinyMCE integration for Textpattern.
+* "jbx_multiple_image_upload":https://github.com/jbach/jbx_multiple_image_upload - Multiple image upload.
 * "rah_privileges":https://github.com/gocom/rah_privileges - Configure Textpattern's admin-side user-group privileges through the Preferences panel.
 * "spf_codemirror":https://github.com/spiffin/spf_codemirror - CodeMirror syntax-highlighting and Emmet code-completion for Pages, Forms, Styles and more.
 * "spf_js":https://github.com/spiffin/spf_js - JavaScript management (similar to Presentation → Styles).
