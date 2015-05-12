@@ -99,6 +99,7 @@ h3(#misc). Miscellaneous
 * "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
 * "rah_backup":https://github.com/gocom/rah_backup - Takes backups from Textpattern CMS installations.
 * "rah_flat":https://github.com/gocom/rah_flat - Edit Textpattern's database contents and page templates as flat files.
+* "rah_terminal":https://github.com/gocom/rah_terminal - Terminal interface emulator.
 * "rvm_maintenance":https://vanmelick.com/txp/rvm_maintenance.php?help - Shows a maintenance page to all visitors who are not logged in on the admin side of Textpattern.
 * "smd_if":http://stefdawson.com/sw/plugins/smd_if - A generic 'if condition' tester.
 * "textpattern-installer":https://github.com/gocom/textpattern-installer - Textpattern plugin and theme installer for Composer.
