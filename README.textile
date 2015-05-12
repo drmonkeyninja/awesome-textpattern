@@ -97,6 +97,7 @@ h3(#misc). Miscellaneous
 
 * "fly_excerpt":https://github.com/brachycera/fly_excerpt - Truncate the article excerpt.
 * "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
+* "rah_backup":https://github.com/gocom/rah_backup - Takes backups from Textpattern CMS installations.
 * "rah_flat":https://github.com/gocom/rah_flat - Edit Textpattern's database contents and page templates as flat files.
 * "rvm_maintenance":https://vanmelick.com/txp/rvm_maintenance.php?help - Shows a maintenance page to all visitors who are not logged in on the admin side of Textpattern.
 * "smd_if":http://stefdawson.com/sw/plugins/smd_if - A generic 'if condition' tester.
