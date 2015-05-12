@@ -65,6 +65,7 @@ h3(#nav). Navigation
 
 * "adi_menu":http://www.greatoceanmedia.com.au/txp/?plugin=adi_menu - Section hierarchy, section menu and breadcrumb trail.
 * "etc_pagination":https://github.com/bloatware/etc-pagination - Paginate everything.
+* "smd_horizon":https://github.com/Bloke/smd_horizon - Advanced next/previous links.
 
 h3(#performance). Performance
 
