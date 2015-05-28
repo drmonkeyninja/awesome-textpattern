@@ -36,6 +36,7 @@ h3(#admin). Admin
 * "hak_tinymce":https://github.com/hakjoon/hak_tinymce - TinyMCE integration for Textpattern.
 * "jbx_multiple_image_upload":https://github.com/jbach/jbx_multiple_image_upload - Multiple image upload.
 * "rah_privileges":https://github.com/gocom/rah_privileges - Configure Textpattern's admin-side user-group privileges through the Preferences panel.
+* "sed_default_article_status":https://github.com/netcarver/sed_default_article_status - Any default article status you want.
 * "spf_codemirror":https://github.com/spiffin/spf_codemirror - CodeMirror syntax-highlighting and Emmet code-completion for Pages, Forms, Styles and more.
 * "spf_js":https://github.com/spiffin/spf_js - JavaScript management (similar to Presentation → Styles).
 * "tom_image_grid":https://github.com/Sacripant/tom_image_grid - Provides a more compact grid interface for the image admin panel.
