@@ -27,6 +27,7 @@ h2. Table of Contents
 ** "Third-party resources":#resources-third-party
 ** "Blogs":#blogs
 ** "Web development software integration":#software-integration
+* "License":#license
 
 h2(#plugins). Plugins
 
@@ -134,3 +135,7 @@ Useful and current Textpattern-related websites and blogs.
 h3(#software-integration). Web development software integration
 
 * "Textpattern for Panic Coda":https://github.com/philwareham/Textpattern-for-Panic-Coda
+
+h2(#license). License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Awesome Textpattern</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://andy-carter.com" property="cc:attributionName" rel="cc:attributionURL">Andy Carter</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
