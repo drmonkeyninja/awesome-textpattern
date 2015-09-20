@@ -1,4 +1,4 @@
-h1. Awesome Textpattern
+h1. Awesome Textpattern !https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg (Awesome)!:https://github.com/sindresorhus/awesome
 
 A curated list of amazingly awesome "Textpattern CMS":http://textpattern.com plugins, resources and shiny things inspired by the "awesome-php":https://github.com/ziadoz/awesome-php idea.
 
