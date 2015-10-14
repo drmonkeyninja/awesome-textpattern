@@ -123,7 +123,7 @@ h3(#resources-official). Official resources
 h3(#resources-third-party). Third-party resources
 
 * "Create a Textpattern Theme":http://jamessteel.co.uk/blog/create-a-textpattern-theme - Learn to build a Textpattern theme from scratch in this seven part guide by James Steel.
-* "TXP Tips":http://txptips.com/ - Tips, tutorials and code examples to help build better Textpattern sites.
+* "Textpattern Tips":http://www.textpattern.tips/ - Tips, tutorials and code examples to help build better Textpattern sites.
 
 h3(#blogs). Blogs
 
