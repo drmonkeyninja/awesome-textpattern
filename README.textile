@@ -101,6 +101,7 @@ h3(#misc). Miscellaneous
 
 * "fly_excerpt":https://github.com/brachycera/fly_excerpt - Truncate the article excerpt.
 * "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
+* "oui_disclaimer":https://github.com/NicolasGraph/oui_disclaimer - Displays a message which can be hidden or replaced for a defined duration once accepted.
 * "rah_backup":https://github.com/gocom/rah_backup - Takes backups from Textpattern CMS installations.
 * "rah_flat":https://github.com/gocom/rah_flat - Edit Textpattern's database contents and page templates as flat files.
 * "rah_terminal":https://github.com/gocom/rah_terminal - Terminal interface emulator.
