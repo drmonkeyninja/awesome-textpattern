@@ -2,7 +2,7 @@ h1. Awesome Textpattern <a href="https://github.com/sindresorhus/awesome"><img s
 
 A curated list of amazingly awesome "Textpattern CMS":http://textpattern.com plugins, resources and shiny things inspired by the "awesome-php":https://github.com/ziadoz/awesome-php idea.
 
-*This list is for the latest version of Textpattern (v4.5.7).*
+*This list is for the latest version of Textpattern (v4.5.x).*
 
 h2. Contributing
 
@@ -101,6 +101,7 @@ h3(#misc). Miscellaneous
 
 * "fly_excerpt":https://github.com/brachycera/fly_excerpt - Truncate the article excerpt.
 * "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
+* "oui_disclaimer":https://github.com/NicolasGraph/oui_disclaimer - Displays a message which can be hidden or replaced for a defined duration once accepted.
 * "rah_backup":https://github.com/gocom/rah_backup - Takes backups from Textpattern CMS installations.
 * "rah_flat":https://github.com/gocom/rah_flat - Edit Textpattern's database contents and page templates as flat files.
 * "rah_terminal":https://github.com/gocom/rah_terminal - Terminal interface emulator.
@@ -123,7 +124,7 @@ h3(#resources-official). Official resources
 h3(#resources-third-party). Third-party resources
 
 * "Create a Textpattern Theme":http://jamessteel.co.uk/blog/create-a-textpattern-theme - Learn to build a Textpattern theme from scratch in this seven part guide by James Steel.
-* "TXP Tips":http://txptips.com/ - Tips, tutorials and code examples to help build better Textpattern sites.
+* "Textpattern Tips":http://www.textpattern.tips/ - Tips, tutorials and code examples to help build better Textpattern sites.
 
 h3(#blogs). Blogs
 
