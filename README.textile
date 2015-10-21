@@ -71,7 +71,8 @@ h3(#nav). Navigation
 
 h3(#performance). Performance
 
-* "asy_jpcache":https://github.com/netcarver/asy_jpcache - Full Page Caching.
+* "aks_cache":http://textpattern.org.ua/plugins/aks_cache - Partially cache parts of a Textpattern template via tags.
+* "asy_jpcache":https://github.com/netcarver/asy_jpcache - Full page caching.
 * "rah_cache":https://github.com/gocom/rah_cache - Cache dynamic pages as flat files.
 * "rah_cache_minify":https://github.com/gocom/rah_cache_minify - HTML compressor module for rah_cache plugin.
 * "rah_memcached":https://github.com/gocom/rah_memcached - Store parts of Textpattern templates in "Memcached":http://memcached.org.
