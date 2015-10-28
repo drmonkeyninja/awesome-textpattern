@@ -97,6 +97,7 @@ h3(#video). Video
 
 * "arc_vimeo":https://github.com/drmonkeyninja/arc_vimeo - Easily embed Vimeo videos.
 * "arc_youtube":https://github.com/drmonkeyninja/arc_youtube - Easily embed YouTube videos.
+* "oui_dailymotion":https://github.com/NicolasGraph/oui_dailymotion - Easily embed Dailymotion videos.
 
 h3(#misc). Miscellaneous
 
