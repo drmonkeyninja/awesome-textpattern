@@ -104,6 +104,7 @@ h3(#misc). Miscellaneous
 
 * "fly_excerpt":https://github.com/brachycera/fly_excerpt - Truncate the article excerpt.
 * "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
+* "oui_cookie":https://github.com/NicolasGraph/oui_cookie - Set, read, reset of delete cookies through url variables.
 * "oui_disclaimer":https://github.com/NicolasGraph/oui_disclaimer - Displays a message which can be hidden or replaced for a defined duration once accepted.
 * "oui_embed":https://github.com/NicolasGraph/oui_embed - Embed textual informations, images, videos, maps, and more from any web page using oembed, opengraph, twitter-cards, scrapping the html, etc. Requires "Embed":https://github.com/oscarotero/Embed
 * "rah_backup":https://github.com/gocom/rah_backup - Takes backups from Textpattern CMS installations.
