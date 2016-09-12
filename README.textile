@@ -130,13 +130,6 @@ h3(#resources-third-party). Third-party resources
 * "Create a Textpattern Theme":http://jamessteel.co.uk/blog/create-a-textpattern-theme - Learn to build a Textpattern theme from scratch in this seven part guide by James Steel.
 * "Textpattern Tips":http://www.textpattern.tips/ - Tips, tutorials and code examples to help build better Textpattern sites.
 
-h3(#blogs). Blogs
-
-Useful and current Textpattern-related websites and blogs.
-
-* "James Steel":http://jamessteel.co.uk/blog/
-* "TXP Talk":http://txptalk.com/
-
 h3(#software-integration). Web development software integration
 
 * "Textpattern for Panic Coda":https://github.com/philwareham/Textpattern-for-Panic-Coda
