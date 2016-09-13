@@ -95,9 +95,9 @@ Plugins that add social features to Textpattern.
 
 h3(#video). Video
 
-* "oui_video":https://github.com/NicolasGraph/oui_video - Easily embed Vimeo, Youtube or Dailymotion videos.
 * "arc_vimeo":https://github.com/drmonkeyninja/arc_vimeo - Easily embed Vimeo videos.
 * "arc_youtube":https://github.com/drmonkeyninja/arc_youtube - Easily embed YouTube videos.
+* "oui_video":https://github.com/NicolasGraph/oui_video - Easily embed Vimeo, Youtube or Dailymotion videos.
 
 h3(#misc). Miscellaneous
 
