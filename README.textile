@@ -22,6 +22,7 @@ h2. Table of Contents
 ** "Social":#social
 ** "Video":#video
 ** "Miscellaneous":#misc
+* "Plugin Development":#development
 * "Resources":#resources
 ** "Official resources":#resources-official
 ** "Third-party resources":#resources-third-party
@@ -102,7 +103,6 @@ h3(#video). Video
 h3(#misc). Miscellaneous
 
 * "fly_excerpt":https://github.com/brachycera/fly_excerpt - Truncate the article excerpt.
-* "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
 * "oui_cookie":https://github.com/NicolasGraph/oui_cookie - Set, read, reset or delete cookies manually or through url variables.
 * "oui_embed":https://github.com/NicolasGraph/oui_embed - Embed textual informations, images, videos, maps, and more from any web page using oembed, opengraph, twitter-cards, scrapping the html, etc. Requires "Embed":https://github.com/oscarotero/Embed
 * "oui_quote":https://github.com/NicolasGraph/oui_quote - Pull and display a quote from "Quotes on design":http://quotesondesign.com/, "They said so":https://theysaidso.com/, "Le figaro":http://evene.lefigaro.fr/citations or "Le Monde":http://dicocitations.lemonde.fr/citations-mot-monde.php.
@@ -113,6 +113,11 @@ h3(#misc). Miscellaneous
 * "smd_if":http://stefdawson.com/sw/plugins/smd_if - A generic 'if condition' tester.
 * "textpattern-installer":https://github.com/gocom/textpattern-installer - Textpattern plugin and theme installer for Composer.
 * "upm_pending_notify":https://github.com/wcz-txp/upm_pending_notify - Pending article notifications.
+
+h2(#development). Plugin Development
+
+* "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
+* "MassPlugCompiler":https://github.com/gocom/MassPlugCompiler - Compiles Textpattern's plugin installer packages from separate source files.
 
 h2(#resources). Resources
 
