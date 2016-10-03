@@ -2,7 +2,7 @@ h1. Awesome Textpattern <a href="https://github.com/sindresorhus/awesome"><img s
 
 A curated list of amazingly awesome "Textpattern CMS":http://textpattern.com plugins, resources and shiny things inspired by the "awesome-php":https://github.com/ziadoz/awesome-php idea.
 
-*This list is for the latest version of Textpattern (v4.5.x).*
+*This list is for the latest version of Textpattern (v4.6.x).* For Textpattern v4.5.x see the "txp-4.5 branch":https://github.com/drmonkeyninja/awesome-textpattern/tree/txp-4.5.
 
 h2. Contributing
 
@@ -22,6 +22,7 @@ h2. Table of Contents
 ** "Social":#social
 ** "Video":#video
 ** "Miscellaneous":#misc
+* "Plugin Development":#development
 * "Resources":#resources
 ** "Official resources":#resources-official
 ** "Third-party resources":#resources-third-party
@@ -37,7 +38,6 @@ h3(#admin). Admin
 * "hak_tinymce":https://github.com/hakjoon/hak_tinymce - TinyMCE integration for Textpattern.
 * "jbx_multiple_image_upload":https://github.com/jbach/jbx_multiple_image_upload - Multiple image upload.
 * "rah_privileges":https://github.com/gocom/rah_privileges - Configure Textpattern's admin-side user-group privileges through the Preferences panel.
-* "sed_default_article_status":https://github.com/netcarver/sed_default_article_status - Any default article status you want.
 * "spf_codemirror":https://github.com/spiffin/spf_codemirror - CodeMirror syntax-highlighting and Emmet code-completion for Pages, Forms, Styles and more.
 * "spf_js":https://github.com/spiffin/spf_js - JavaScript management (similar to Presentation → Styles).
 * "tom_image_grid":https://github.com/Sacripant/tom_image_grid - Provides a more compact grid interface for the image admin panel.
@@ -98,14 +98,14 @@ h3(#video). Video
 
 * "arc_vimeo":https://github.com/drmonkeyninja/arc_vimeo - Easily embed Vimeo videos.
 * "arc_youtube":https://github.com/drmonkeyninja/arc_youtube - Easily embed YouTube videos.
-* "oui_dailymotion":https://github.com/NicolasGraph/oui_dailymotion - Easily embed Dailymotion videos.
+* "oui_video":https://github.com/NicolasGraph/oui_video - Easily embed Vimeo, Youtube or Dailymotion videos.
 
 h3(#misc). Miscellaneous
 
 * "fly_excerpt":https://github.com/brachycera/fly_excerpt - Truncate the article excerpt.
-* "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
 * "oui_cookie":https://github.com/NicolasGraph/oui_cookie - Set, read, reset or delete cookies manually or through url variables.
 * "oui_embed":https://github.com/NicolasGraph/oui_embed - Embed textual informations, images, videos, maps, and more from any web page using oembed, opengraph, twitter-cards, scrapping the html, etc. Requires "Embed":https://github.com/oscarotero/Embed
+* "oui_quote":https://github.com/NicolasGraph/oui_quote - Pull and display a quote from "Quotes on design":http://quotesondesign.com/, "They said so":https://theysaidso.com/, "Le figaro":http://evene.lefigaro.fr/citations or "Le Monde":http://dicocitations.lemonde.fr/citations-mot-monde.php.
 * "rah_backup":https://github.com/gocom/rah_backup - Takes backups from Textpattern CMS installations.
 * "rah_flat":https://github.com/NicolasGraph/rah_flat - Edit Textpattern's database contents and page templates as flat files.
 * "rah_terminal":https://github.com/gocom/rah_terminal - Terminal interface emulator.
@@ -113,6 +113,11 @@ h3(#misc). Miscellaneous
 * "smd_if":http://stefdawson.com/sw/plugins/smd_if - A generic 'if condition' tester.
 * "textpattern-installer":https://github.com/gocom/textpattern-installer - Textpattern plugin and theme installer for Composer.
 * "upm_pending_notify":https://github.com/wcz-txp/upm_pending_notify - Pending article notifications.
+
+h2(#development). Plugin Development
+
+* "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
+* "MassPlugCompiler":https://github.com/gocom/MassPlugCompiler - Compiles Textpattern's plugin installer packages from separate source files.
 
 h2(#resources). Resources
 
@@ -127,15 +132,7 @@ h3(#resources-official). Official resources
 
 h3(#resources-third-party). Third-party resources
 
-* "Create a Textpattern Theme":http://jamessteel.co.uk/blog/create-a-textpattern-theme - Learn to build a Textpattern theme from scratch in this seven part guide by James Steel.
 * "Textpattern Tips":http://www.textpattern.tips/ - Tips, tutorials and code examples to help build better Textpattern sites.
-
-h3(#blogs). Blogs
-
-Useful and current Textpattern-related websites and blogs.
-
-* "James Steel":http://jamessteel.co.uk/blog/
-* "TXP Talk":http://txptalk.com/
 
 h3(#software-integration). Web development software integration
 
