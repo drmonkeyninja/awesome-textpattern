@@ -8,7 +8,7 @@ h2. Contributing
 
 This list is for the community and curated by it, so please contribute. See "CONTRIBUTING":https://github.com/drmonkeyninja/awesome-textpattern/blob/master/CONTRIBUTING.textile for details.
 
-h2. Table of Contents
+h2. Contents
 
 * "Plugins":#plugins
 ** "Admin":#admin
