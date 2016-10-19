@@ -68,6 +68,7 @@ h3(#forms). Forms
 
 h3(#images). Images
 
+* "smd_imagery":https://github.com/Bloke/smd_imagery - Article images management.
 * "smd_thumbnail":https://github.com/Bloke/smd_thumbnail - Multiple image thumbnails of arbitrary dimensions.
 * "oui_instagram":https://github.com/NicolasGraph/oui_instagram - Instagram recent images gallery.
 
