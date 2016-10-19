@@ -60,6 +60,7 @@ h3(#video). Embedding
 * "arc_vimeo":https://github.com/drmonkeyninja/arc_vimeo - Easily embed Vimeo videos.
 * "arc_youtube":https://github.com/drmonkeyninja/arc_youtube - Easily embed YouTube videos.
 * "oui_embed":https://github.com/NicolasGraph/oui_embed - Embed textual informations, images, videos, maps, and more from any web page using oembed, opengraph, twitter-cards, scrapping the html, etc. Requires "Embed":https://github.com/oscarotero/Embed
+* "oui_instagram":https://github.com/NicolasGraph/oui_instagram - Easily embed Instagram recent images galleries.
 * "oui_player":https://github.com/NicolasGraph/oui_player - Easily embed customizable iframe players from Abc News, Archive, Dailymotion, Mixcloud, Myspace videos, Soundcloud, Twitch, Viddsee, Vimeo, Youtube.
 
 h3(#forms). Forms
@@ -68,8 +69,8 @@ h3(#forms). Forms
 
 h3(#images). Images
 
+* "smd_imagery":https://github.com/Bloke/smd_imagery - Article images management.
 * "smd_thumbnail":https://github.com/Bloke/smd_thumbnail - Multiple image thumbnails of arbitrary dimensions.
-* "oui_instagram":https://github.com/NicolasGraph/oui_instagram - Instagram recent images gallery.
 
 h3(#nav). Navigation
 
