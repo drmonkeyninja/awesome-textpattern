@@ -14,13 +14,13 @@ h2. Contents
 ** "Admin":#admin
 ** "Comments":#comments
 ** "Content":#content
+** "Embedding":#embedding
 ** "Forms":#forms
 ** "Images":#images
 ** "Navigation":#nav
 ** "Performance":#performance
 ** "SEO":#seo
 ** "Social":#social
-** "Video":#video
 ** "Miscellaneous":#misc
 * "Plugin Development":#development
 * "Resources":#resources
@@ -55,14 +55,22 @@ h3(#content). Content
 * "glz_custom_fields":https://github.com/gerhard/glz_custom_fields - Unlimited custom fields.
 * "smd_tags":https://github.com/Bloke/smd_tags - Unlimited, structured taxonomy across content types.
 
+h3(#video). Embedding
+
+* "arc_vimeo":https://github.com/drmonkeyninja/arc_vimeo - Easily embed Vimeo videos.
+* "arc_youtube":https://github.com/drmonkeyninja/arc_youtube - Easily embed YouTube videos.
+* "oui_embed":https://github.com/NicolasGraph/oui_embed - Embed textual informations, images, videos, maps, and more from any web page using oembed, opengraph, twitter-cards, scrapping the html, etc. Requires "Embed":https://github.com/oscarotero/Embed
+* "oui_instagram":https://github.com/NicolasGraph/oui_instagram - Easily embed Instagram recent images galleries.
+* "oui_player":https://github.com/NicolasGraph/oui_player - Easily embed customizable iframe players from Abc News, Archive, Dailymotion, Mixcloud, Myspace videos, Soundcloud, Twitch, Viddsee, Vimeo, Youtube.
+
 h3(#forms). Forms
 
 * "zem_contact_reborn":https://github.com/Bloke/zem_contact_reborn - Contact forms.
 
 h3(#images). Images
 
+* "smd_imagery":https://github.com/Bloke/smd_imagery - Article images management.
 * "smd_thumbnail":https://github.com/Bloke/smd_thumbnail - Multiple image thumbnails of arbitrary dimensions.
-* "oui_instagram":https://github.com/NicolasGraph/oui_instagram - Instagram recent images gallery.
 
 h3(#nav). Navigation
 
@@ -94,17 +102,10 @@ Plugins that add social features to Textpattern.
 * "pat_article_social":https://github.com/cara-tm/pat_article_social - Social bookmarking with share counts.
 * "TXP Tweet":https://github.com/drmonkeyninja/TXP-Tweet - Twitter-Textpattern integration.
 
-h3(#video). Video
-
-* "arc_vimeo":https://github.com/drmonkeyninja/arc_vimeo - Easily embed Vimeo videos.
-* "arc_youtube":https://github.com/drmonkeyninja/arc_youtube - Easily embed YouTube videos.
-* "oui_video":https://github.com/NicolasGraph/oui_video - Easily embed Vimeo, Youtube or Dailymotion videos.
-
 h3(#misc). Miscellaneous
 
 * "fly_excerpt":https://github.com/brachycera/fly_excerpt - Truncate the article excerpt.
 * "oui_cookie":https://github.com/NicolasGraph/oui_cookie - Set, read, reset or delete cookies manually or through url variables.
-* "oui_embed":https://github.com/NicolasGraph/oui_embed - Embed textual informations, images, videos, maps, and more from any web page using oembed, opengraph, twitter-cards, scrapping the html, etc. Requires "Embed":https://github.com/oscarotero/Embed
 * "oui_quote":https://github.com/NicolasGraph/oui_quote - Pull and display a quote from "Quotes on design":http://quotesondesign.com/, "They said so":https://theysaidso.com/, "Le figaro":http://evene.lefigaro.fr/citations or "Le Monde":http://dicocitations.lemonde.fr/citations-mot-monde.php.
 * "rah_backup":https://github.com/gocom/rah_backup - Takes backups from Textpattern CMS installations.
 * "rah_flat":https://github.com/NicolasGraph/rah_flat - Edit Textpattern's database contents and page templates as flat files.
