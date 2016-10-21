@@ -55,7 +55,7 @@ h3(#content). Content
 * "glz_custom_fields":https://github.com/gerhard/glz_custom_fields - Unlimited custom fields.
 * "smd_tags":https://github.com/Bloke/smd_tags - Unlimited, structured taxonomy across content types.
 
-h3(#video). Embedding
+h3(#embedding). Embedding
 
 * "arc_vimeo":https://github.com/drmonkeyninja/arc_vimeo - Easily embed Vimeo videos.
 * "arc_youtube":https://github.com/drmonkeyninja/arc_youtube - Easily embed YouTube videos.
