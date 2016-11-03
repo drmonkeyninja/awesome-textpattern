@@ -23,9 +23,8 @@ h2. Contents
 ** "Social":#social
 ** "Miscellaneous":#misc
 * "Plugin Development":#development
+* "Themes":#themes
 * "Resources":#resources
-** "Official resources":#resources-official
-** "Non official resources":#resources-non-official
 ** "Web development software integration":#software-integration
 * "Community":#community
 ** "Core team":#core-team
@@ -121,33 +120,20 @@ h2(#development). Plugin Development
 
 * "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
 * "MassPlugCompiler":https://github.com/gocom/MassPlugCompiler - Compiles Textpattern's plugin installer packages from separate source files.
+* "Plugin template repo":https://github.com/textpattern/textpattern-plugin-template
+
+h2(#themes). Themes
+
+* "Default theme repo":https://github.com/textpattern/textpattern-default-theme
+* "Hive theme design patterns guidelines":http://design-patterns.textpattern.io/docs/
+* "jQuery UI theme repo":https://github.com/textpattern/textpattern-jquery-ui-theme
 
 h2(#resources). Resources
 
 Various resources, such as books, websites and articles, for improving your Textpattern skills and knowledge.
 
-h3(#resources-official). Official resources
-
 * "Official website":http://textpattern.com/
-* "Online documentation":http://docs.textpattern.io/
-
-h4. GitHub repositories
-
-* "Default theme repo":https://github.com/textpattern/textpattern-default-theme
-* "Developer's toolbelt repo":https://github.com/textpattern/textpattern-toolbelt
-* "Documentation repo":https://github.com/textpattern/textpattern.github.io
-* "Forum repository":https://github.com/textpattern/textpattern-forum
-* "jQuery UI theme repo":https://github.com/textpattern/textpattern-jquery-ui-theme
-* "Plugin template repo":https://github.com/textpattern/textpattern-plugin-template
-* "Pophelp repo":https://github.com/textpattern/pophelp
-* "RPC repo":https://github.com/textpattern/rpc
-* "Txpmag.com repo":https://github.com/textpattern/txpmag-website
-* "Textpacks repo":https://github.com/textpattern/textpacks
-* "Textpattern.com repo":https://github.com/textpattern/textpattern-com-website
-* "Textpattern.org repo":https://github.com/textpattern/textpattern-org-website
-
-h3(#resources-non-official). Non official resources
-
+* "Official online documentation":http://docs.textpattern.io/
 * "Textpattern Tips":http://www.textpattern.tips/ - Tips, tutorials and code examples to help build better Textpattern sites.
 
 h3(#software-integration). Web development software integration
