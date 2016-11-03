@@ -24,6 +24,8 @@ h2. Contents
 ** "Miscellaneous":#misc
 * "Plugin Development":#development
 * "Themes":#themes
+** "Back-end":#back-end
+** "Front-end":#front-end
 * "Resources":#resources
 ** "Web development software integration":#software-integration
 * "Community":#community
@@ -124,9 +126,14 @@ h2(#development). Plugin Development
 
 h2(#themes). Themes
 
-* "Default theme repo":https://github.com/textpattern/textpattern-default-theme
+h3(#back-end). Back-end
+
 * "Hive theme design patterns guidelines":http://design-patterns.textpattern.io/docs/
 * "jQuery UI theme repo":https://github.com/textpattern/textpattern-jquery-ui-theme
+
+h3(#front-end). Front-end
+
+* "Default theme repo":https://github.com/textpattern/textpattern-default-theme
 
 h2(#resources). Resources
 
