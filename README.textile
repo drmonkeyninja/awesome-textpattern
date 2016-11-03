@@ -1,6 +1,6 @@
 h1. Awesome Textpattern <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
 
-A curated list of amazingly awesome "Textpattern CMS":http://textpattern.com plugins, resources and shiny things inspired by the "awesome-php":https://github.com/ziadoz/awesome-php idea.
+A curated list of amazingly awesome "Textpattern CMS":http://textpattern.com plugins, resources and shiny things.
 
 *This list is for the latest version of Textpattern (v4.6.x).* For Textpattern v4.5.x see the "txp-4.5 branch":https://github.com/drmonkeyninja/awesome-textpattern/tree/txp-4.5.
 
@@ -28,6 +28,7 @@ h2. Contents
 ** "Web development software integration":#software-integration
 * "Community":#community
 ** "Blogs":#blogs
+* "Related":#related
 * "License":#license
 
 h2(#plugins). Plugins
@@ -144,6 +145,10 @@ h2(#community). Community
 h3(#blogs). Blogs
 
 * "Textpattern Tips":http://www.textpattern.tips/ - Tips, tutorials and code examples to help build better Textpattern sites.
+
+h2(#related). Related
+
+* "Awesome PHP":https://github.com/ziadoz/awesome-php
 
 h2(#license). License
 
