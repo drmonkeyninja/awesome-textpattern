@@ -127,7 +127,7 @@ Various resources, such as books, websites and articles, for improving your Text
 h3(#resources-official). Official resources
 
 * "Official website":http://textpattern.com/
-* "Textpattern Default Theme":https://github.com/textpattern/textpattern-default-theme - the default theme that ships with Textpattern.
+* "Textpattern Default Theme":https://github.com/textpattern/textpattern-default-theme - The default theme that ships with Textpattern.
 * "Textpattern Documentation":http://www.textpattern.net/wiki/index.php?title=Index
 
 h3(#software-integration). Web development software integration
