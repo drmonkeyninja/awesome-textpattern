@@ -62,9 +62,9 @@ h3(#embedding). Embedding
 
 * "arc_vimeo":https://github.com/drmonkeyninja/arc_vimeo - Easily embed Vimeo videos.
 * "arc_youtube":https://github.com/drmonkeyninja/arc_youtube - Easily embed YouTube videos.
-* "oui_embed":https://github.com/NicolasGraph/oui_embed - Embed textual informations, images, videos, maps, and more from any web page using oembed, opengraph, twitter-cards, scrapping the html, etc. Requires "Embed":https://github.com/oscarotero/Embed
+* "oui_embed":https://github.com/NicolasGraph/oui_embed - Embed any information, from any web page using oembed, opengraph, twitter-cards, scrapping the html, etc. Requires "Embed":https://github.com/oscarotero/Embed
 * "oui_instagram":https://github.com/NicolasGraph/oui_instagram - Easily embed Instagram recent images galleries.
-* "oui_player":https://github.com/NicolasGraph/oui_player - Easily embed customizable iframe players from Abc News, Archive, Dailymotion, Mixcloud, Myspace videos, Soundcloud, Twitch, Viddsee, Vimeo, Youtube.
+* "oui_player":https://github.com/NicolasGraph/oui_player - Easily embed configurable video/music players from a growing providers list.
 
 h3(#forms). Forms
 
@@ -128,24 +128,24 @@ h2(#themes). Themes
 
 h3(#back-end). Back-end
 
-* "Hive theme design patterns guidelines":http://design-patterns.textpattern.io/docs/
-* "jQuery UI theme repo":https://github.com/textpattern/textpattern-jquery-ui-theme
+* "Hive theme design patterns":http://design-patterns.textpattern.io/docs/ - Core designer guidelines for themes and plugins developers.
+* "jQuery UI theme repo":https://github.com/textpattern/textpattern-jquery-ui-theme - The jQuery UI theme used within the Textpattern admin-side.
 
 h3(#front-end). Front-end
 
-* "Default theme repo":https://github.com/textpattern/textpattern-default-theme
+* "Default theme repo":https://github.com/textpattern/textpattern-default-theme - The theme that ships as standard with Textpattern CMS.
 
 h2(#resources). Resources
 
 Various resources, such as books, websites and articles, for improving your Textpattern skills and knowledge.
 
-* "Official website":http://textpattern.com/
-* "Official online documentation":http://docs.textpattern.io/
+* "Official website":http://textpattern.com/ - Download link, features description and links to start enjoying Txp.
+* "Official online documentation":http://docs.textpattern.io/ - The user Bible.
 * "Textpattern Tips":http://www.textpattern.tips/ - Tips, tutorials and code examples to help build better Textpattern sites.
 
 h3(#software-integration). Web development software integration
 
-* "Textpattern for Panic Coda":https://github.com/philwareham/Textpattern-for-Panic-Coda
+* "Textpattern for Panic Coda":https://github.com/philwareham/Textpattern-for-Panic-Coda - Handy elements for use with Panic Coda 2 on a Mac.
 
 h2(#community). Community
 
