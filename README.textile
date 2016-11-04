@@ -23,6 +23,9 @@ h2. Contents
 ** "Social":#social
 ** "Miscellaneous":#misc
 * "Plugin Development":#development
+* "Themes":#themes
+** "Back-end":#back-end
+** "Front-end":#front-end
 * "Resources":#resources
 ** "Official resources":#resources-official
 ** "Web development software integration":#software-integration
@@ -123,6 +126,17 @@ h2(#development). Plugin Development
 * "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
 * "MassPlugCompiler":https://github.com/gocom/MassPlugCompiler - Compiles Textpattern's plugin installer packages from separate source files.
 
+h2(#themes). Themes
+
+h3(#back-end). Back-end
+
+* "Hive theme design patterns":http://design-patterns.textpattern.io/docs/ - Core designer guidelines for themes and plugins developers.
+* "jQuery UI theme repo":https://github.com/textpattern/textpattern-jquery-ui-theme - The jQuery UI theme used within the Textpattern admin-side.
+
+h3(#front-end). Front-end
+
+* "Default theme repo":https://github.com/textpattern/textpattern-default-theme - The theme that ships as standard with Textpattern CMS.
+
 h2(#resources). Resources
 
 Various resources, such as books, websites and articles, for improving your Textpattern skills and knowledge.
@@ -130,7 +144,6 @@ Various resources, such as books, websites and articles, for improving your Text
 h3(#resources-official). Official resources
 
 * "Official website":http://textpattern.com/
-* "Textpattern Default Theme":https://github.com/textpattern/textpattern-default-theme - The default theme that ships with Textpattern.
 * "Textpattern Documentation":http://www.textpattern.net/wiki/index.php?title=Index
 
 h3(#software-integration). Web development software integration
