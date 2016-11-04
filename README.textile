@@ -27,6 +27,8 @@ h2. Contents
 ** "Official resources":#resources-official
 ** "Web development software integration":#software-integration
 * "Community":#community
+** "Core team":#core-team
+** "Plugins developers":#plugins-dev
 ** "Blogs":#blogs
 * "Related":#related
 * "License":#license
@@ -141,6 +143,29 @@ h2(#community). Community
 * "Facebook":https://www.facebook.com/groups/textpattern/
 * "Google+":https://plus.google.com/u/0/communities/111366418300163664690
 * "Textpattern Forum":http://forum.textpattern.com/
+
+h3(#core-team). Core Team
+
+* Stef Dawson aka "Bloke":http://forum.textpattern.com/profile.php?id=8181 on "GitHub":https://github.com/Bloke.
+* Phil Wareham aka "philwareham":http://forum.textpattern.com/profile.php?id=39206 on "GitHub":https://github.com/philwareham.
+* Robert Wetzlmayr aka "wet":http://forum.textpattern.com/profile.php?id=5463 on "GitHub":https://github.com/rwetzlmayr.
+
+h3(#plugins-dev). Plugins developers
+
+Alphabetical order by author prefixes
+
+* adi aka "gomedia":http://forum.textpattern.com/profile.php?id=15145 on "GitHub":https://github.com/gomedia-adi
+* arc aka "monkeyninja":http://forum.textpattern.com/profile.php?id=18747 (Andy Carter) on "Github":https://github.com/drmonkeyninja.
+* bot aka "redbot":http://forum.textpattern.com/profile.php?id=8379 on "Github":https://github.com/redbotxx.
+* cbe aka "CeBe":http://forum.textpattern.com/profile.php?id=76735 (Claire Brione) on "Github":https://github.com/ClaireBrione.
+* etc aka "etc":http://forum.textpattern.com/profile.php?id=96820 on "Github":https://github.com/bloatware.
+* goe aka "goechsler":http://forum.textpattern.com/profile.php?id=173137 on "Github":https://github.com/goechsler.
+* jcr aka jools-r on "Github":https://github.com/jools-r.
+* mkp aka "michaelkpate":http://forum.textpattern.com/profile.php?id=109 (Michael K Pate) on "Github":https://github.com/michaelkpate.
+* oui aka "NicolasGraph":http://forum.textpattern.com/profile.php?id=15445 (Nicolas Morand) on "Github":https://github.com/NicolasGraph.
+* pat aka "Pat64":http://forum.textpattern.com/profile.php?id=7660 (Patrick Lefevre) on "Github":https://github.com/cara-tm.
+* rah aka "Gocom":http://forum.textpattern.com/profile.php?id=9632 (Jukka Svahn) on "Github":https://github.com/gocom.
+* smd aka "Bloke":http://forum.textpattern.com/profile.php?id=8181 (Stef Dawson) on "Github":https://github.com/Bloke.
 
 h3(#blogs). Blogs
 
