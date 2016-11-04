@@ -125,6 +125,7 @@ h2(#development). Plugin Development
 
 * "ied_plugin_composer":https://github.com/Bloke/ied_plugin_composer - Create, publish and edit plugins.
 * "MassPlugCompiler":https://github.com/gocom/MassPlugCompiler - Compiles Textpattern's plugin installer packages from separate source files.
+* "Plugin template repo":https://github.com/textpattern/textpattern-plugin-template - A starter package for plugin developers.
 
 h2(#themes). Themes
 
