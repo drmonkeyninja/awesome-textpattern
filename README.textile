@@ -144,7 +144,7 @@ Various resources, such as books, websites and articles, for improving your Text
 h3(#resources-official). Official resources
 
 * "Official website":http://textpattern.com/
-* "Textpattern Documentation":http://www.textpattern.net/wiki/index.php?title=Index
+* "Textpattern Documentation":http://docs.textpattern.io/
 
 h3(#software-integration). Web development software integration
 
