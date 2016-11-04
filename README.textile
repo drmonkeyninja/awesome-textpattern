@@ -144,12 +144,12 @@ Various resources, such as books, websites and articles, for improving your Text
 
 h3(#resources-official). Official resources
 
-* "Official website":http://textpattern.com/
-* "Textpattern Documentation":http://docs.textpattern.io/
+* "Official website":http://textpattern.com/ - Download link, features description and informations the CMS.
+* "Textpattern Documentation":http://docs.textpattern.io/ - The textpattern user guidelines.
 
 h3(#software-integration). Web development software integration
 
-* "Textpattern for Panic Coda":https://github.com/philwareham/Textpattern-for-Panic-Coda
+* "Textpattern for Panic Coda":https://github.com/philwareham/Textpattern-for-Panic-Coda - Handy elements for use with Panic Coda 2 on a Mac.
 
 h2(#community). Community
 
@@ -187,7 +187,7 @@ h3(#blogs). Blogs
 
 h2(#related). Related
 
-* "Awesome PHP":https://github.com/ziadoz/awesome-php
+* "Awesome PHP":https://github.com/ziadoz/awesome-php - A curated list of amazingly awesome PHP libraries, resources and shiny things.
 
 h2(#license). License
 
