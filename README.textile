@@ -161,8 +161,10 @@ h2(#community). Community
 h3(#core-team). Core Team
 
 * Stef Dawson aka "Bloke":http://forum.textpattern.com/profile.php?id=8181 on "GitHub":https://github.com/Bloke.
+* Oleg aka "etc":http://forum.textpattern.com/profile.php?id=96820 on "Github":https://github.com/bloatware.
 * Phil Wareham aka "philwareham":http://forum.textpattern.com/profile.php?id=39206 on "GitHub":https://github.com/philwareham.
 * Robert Wetzlmayr aka "wet":http://forum.textpattern.com/profile.php?id=5463 on "GitHub":https://github.com/rwetzlmayr.
+
 
 h3(#plugins-dev). Plugins developers
 
@@ -172,7 +174,6 @@ Alphabetical order by author prefixes
 * arc aka "monkeyninja":http://forum.textpattern.com/profile.php?id=18747 (Andy Carter) on "Github":https://github.com/drmonkeyninja.
 * bot aka "redbot":http://forum.textpattern.com/profile.php?id=8379 on "Github":https://github.com/redbotxx.
 * cbe aka "CeBe":http://forum.textpattern.com/profile.php?id=76735 (Claire Brione) on "Github":https://github.com/ClaireBrione.
-* etc aka "etc":http://forum.textpattern.com/profile.php?id=96820 on "Github":https://github.com/bloatware.
 * goe aka "goechsler":http://forum.textpattern.com/profile.php?id=173137 on "Github":https://github.com/goechsler.
 * jcr aka jools-r on "Github":https://github.com/jools-r.
 * mkp aka "michaelkpate":http://forum.textpattern.com/profile.php?id=109 (Michael K Pate) on "Github":https://github.com/michaelkpate.
