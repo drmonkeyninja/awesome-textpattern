@@ -88,6 +88,7 @@ h3(#performance). Performance
 
 * "aks_cache":http://textpattern.org.ua/plugins/aks_cache - Partially cache parts of a Textpattern template via tags.
 * "asy_jpcache":https://github.com/netcarver/asy_jpcache - Full page caching.
+* "etc_cache":https://github.com/etc-plugins/etc_cache - Events-driven cache solution for Textpattern CMS.
 * "rah_cache":https://github.com/gocom/rah_cache - Cache dynamic pages as flat files.
 * "rah_cache_minify":https://github.com/gocom/rah_cache_minify - HTML compressor module for rah_cache plugin.
 * "rah_memcached":https://github.com/gocom/rah_memcached - Store parts of Textpattern templates in "Memcached":http://memcached.org.
@@ -111,9 +112,10 @@ Plugins that add social features to Textpattern.
 h3(#misc). Miscellaneous
 
 * "fly_excerpt":https://github.com/brachycera/fly_excerpt - Truncate the article excerpt.
-* "oui_cookie":https://github.com/NicolasGraph/oui_cookie - Set, read, reset or delete cookies manually or through url variables.
+* "oui_cookie":https://github.com/NicolasGraph/oui_cookie - Set, read, reset or delete cookies manually or through URL variables.
 * "oui_quote":https://github.com/NicolasGraph/oui_quote - Pull and display a quote from "Quotes on design":http://quotesondesign.com/, "They said so":https://theysaidso.com/, "Le figaro":http://evene.lefigaro.fr/citations or "Le Monde":http://dicocitations.lemonde.fr/citations-mot-monde.php.
 * "pat_if_amp":https://github.com/cara-tm/pat_if_amp - Serve Google's Accelerated Mobile Pages (AMP) in Textpattern.
+* "pat_eu_cookies_law":https://github.com/cara-tm/pat_eu_cookies_law - EU Cookie Law compliance: A Textpattern CMS plugin for third-party cookies.
 * "rah_backup":https://github.com/gocom/rah_backup - Takes backups from Textpattern CMS installations.
 * "rah_flat":https://github.com/NicolasGraph/rah_flat - Edit Textpattern's database contents and page templates as flat files.
 * "rah_terminal":https://github.com/gocom/rah_terminal - Terminal interface emulator.
@@ -155,14 +157,13 @@ h3(#software-integration). Web development software integration
 h2(#community). Community
 
 * "@textpattern on Twitter":https://twitter.com/textpattern
-* "Facebook":https://www.facebook.com/groups/textpattern/
 * "Google+":https://plus.google.com/u/0/communities/111366418300163664690
-* "Textpattern Forum":http://forum.textpattern.com/
+* "Textpattern Forum":https://forum.textpattern.io/
 
 h3(#core-team). Core Team
 
 * Stef Dawson aka "Bloke":http://forum.textpattern.com/profile.php?id=8181 on "GitHub":https://github.com/Bloke.
-* Oleg aka "etc":http://forum.textpattern.com/profile.php?id=96820 on "Github":https://github.com/bloatware.
+* Oleg Loukianov aka "etc":http://forum.textpattern.com/profile.php?id=96820 on "Github":https://github.com/bloatware.
 * Phil Wareham aka "philwareham":http://forum.textpattern.com/profile.php?id=39206 on "GitHub":https://github.com/philwareham.
 * Robert Wetzlmayr aka "wet":http://forum.textpattern.com/profile.php?id=5463 on "GitHub":https://github.com/rwetzlmayr.
 
