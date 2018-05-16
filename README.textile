@@ -2,7 +2,7 @@ h1. Awesome Textpattern <a href="https://github.com/sindresorhus/awesome"><img s
 
 A curated list of amazingly awesome "Textpattern CMS":http://textpattern.com plugins, resources and shiny things.
 
-*This list is for the latest version of Textpattern (v4.6.x).* For Textpattern v4.5.x see the "txp-4.5 branch":https://github.com/drmonkeyninja/awesome-textpattern/tree/txp-4.5.
+*This list is for Textpattern v4.6.x.* For the latest version of Textpattern see the "master branch":https://github.com/drmonkeyninja/awesome-textpattern.
 
 h2. Contributing
 
