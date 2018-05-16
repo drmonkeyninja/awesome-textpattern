@@ -2,7 +2,7 @@ h1. Awesome Textpattern <a href="https://github.com/sindresorhus/awesome"><img s
 
 A curated list of amazingly awesome "Textpattern CMS":http://textpattern.com plugins, resources and shiny things.
 
-*This list is for the latest version of Textpattern (v4.6.x).* For Textpattern v4.5.x see the "txp-4.5 branch":https://github.com/drmonkeyninja/awesome-textpattern/tree/txp-4.5.
+*This list is for the latest version of Textpattern (v4.7.x).* For Textpattern v4.6.x see the "txp-4.6 branch":https://github.com/drmonkeyninja/awesome-textpattern/tree/txp-4.6.
 
 h2. Contributing
 
@@ -147,8 +147,8 @@ Various resources, such as books, websites and articles, for improving your Text
 
 h3(#resources-official). Official resources
 
-* "Official website":http://textpattern.com/ - Download link, features description and informations the CMS.
-* "Textpattern Documentation":http://docs.textpattern.io/ - The textpattern user guidelines.
+* "Official website":https://textpattern.com/ - Download link, features description and informations the CMS.
+* "Textpattern Documentation":https://docs.textpattern.io - The textpattern user guidelines.
 
 h3(#software-integration). Web development software integration
 
