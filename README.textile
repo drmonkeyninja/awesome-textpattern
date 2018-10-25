@@ -27,6 +27,7 @@ h2. Contents
 ** "Back-end":#back-end
 ** "Front-end":#front-end
 * "Resources":#resources
+** "Migration":#migration
 ** "Official resources":#resources-official
 ** "Web development software integration":#software-integration
 * "Community":#community
@@ -141,6 +142,10 @@ h3(#front-end). Front-end
 h2(#resources). Resources
 
 Various resources, such as books, websites and articles, for improving your Textpattern skills and knowledge.
+
+h3(#migration). Migration
+
+* "WP to Txp":https://github.com/NicolasGraph/wp-to-txp - WordPress developer helpful references.
 
 h3(#resources-official). Official resources
 
