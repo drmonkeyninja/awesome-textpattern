@@ -27,8 +27,8 @@ h2. Contents
 ** "Back-end":#back-end
 ** "Front-end":#front-end
 * "Resources":#resources
-** "Migration":#migration
 ** "Official resources":#resources-official
+** "Migration":#migration
 ** "Web development software integration":#software-integration
 * "Community":#community
 ** "Core team":#core-team
@@ -146,14 +146,14 @@ h2(#resources). Resources
 
 Various resources, such as books, websites and articles, for improving your Textpattern skills and knowledge.
 
-h3(#migration). Migration
-
-* "WP to Txp":https://github.com/NicolasGraph/wp-to-txp - WordPress developer helpful references.
-
 h3(#resources-official). Official resources
 
 * "Official website":https://textpattern.com/ - Download link, features description and informations the CMS.
 * "Textpattern Documentation":https://docs.textpattern.io - The textpattern user guidelines.
+
+h3(#migration). Migration
+
+* "WP to Txp":https://github.com/NicolasGraph/wp-to-txp - WordPress developer helpful references.
 
 h3(#software-integration). Web development software integration
 
