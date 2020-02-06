@@ -148,8 +148,8 @@ Various resources, such as books, websites and articles, for improving your Text
 
 h3(#resources-official). Official resources
 
-* "Official website":https://textpattern.com/ - Download link, features description and informations the CMS.
-* "Textpattern Documentation":https://docs.textpattern.io - The textpattern user guidelines.
+* "Official website":https://textpattern.com/ - Download link, features description and information.
+* "Textpattern Documentation":https://docs.textpattern.com - The Textpattern user guidelines.
 
 h3(#migration). Migration
 
@@ -163,31 +163,31 @@ h2(#community). Community
 
 * "@textpattern on Twitter":https://twitter.com/textpattern
 * "Google+":https://plus.google.com/u/0/communities/111366418300163664690
-* "Textpattern Forum":https://forum.textpattern.io/
+* "Textpattern Forum":https://forum.textpattern.com/
 
 h3(#core-team). Core Team
 
-* Stef Dawson aka "Bloke":https://forum.textpattern.io/profile.php?id=8181 on "GitHub":https://github.com/Bloke.
-* Oleg Loukianov aka "etc":https://forum.textpattern.io/profile.php?id=96820 on "Github":https://github.com/bloatware.
-* Phil Wareham aka "philwareham":https://forum.textpattern.io/profile.php?id=39206 on "GitHub":https://github.com/philwareham.
-* Robert Wetzlmayr aka "wet":https://forum.textpattern.io/profile.php?id=5463 on "GitHub":https://github.com/rwetzlmayr.
+* Stef Dawson aka "Bloke":https://forum.textpattern.com/profile.php?id=8181 on "GitHub":https://github.com/Bloke.
+* Oleg Loukianov aka "etc":https://forum.textpattern.com/profile.php?id=96820 on "Github":https://github.com/bloatware.
+* Phil Wareham aka "philwareham":https://forum.textpattern.com/profile.php?id=39206 on "GitHub":https://github.com/philwareham.
+* Robert Wetzlmayr aka "wet":https://forum.textpattern.com/profile.php?id=5463 on "GitHub":https://github.com/rwetzlmayr.
 
 
 h3(#plugins-dev). Plugins developers
 
 Alphabetical order by author prefixes
 
-* adi aka "gomedia":https://forum.textpattern.io/profile.php?id=15145 on "GitHub":https://github.com/gomedia-adi
-* arc aka "monkeyninja":https://forum.textpattern.io/profile.php?id=18747 (Andy Carter) on "Github":https://github.com/drmonkeyninja.
-* bot aka "redbot":https://forum.textpattern.io/profile.php?id=8379 on "Github":https://github.com/redbotxx.
-* cbe aka "CeBe":https://forum.textpattern.io/profile.php?id=76735 (Claire Brione) on "Github":https://github.com/ClaireBrione.
-* goe aka "goechsler":https://forum.textpattern.io/profile.php?id=173137 on "Github":https://github.com/goechsler.
+* adi aka "gomedia":https://forum.textpattern.com/profile.php?id=15145 on "GitHub":https://github.com/gomedia-adi
+* arc aka "monkeyninja":https://forum.textpattern.com/profile.php?id=18747 (Andy Carter) on "Github":https://github.com/drmonkeyninja.
+* bot aka "redbot":https://forum.textpattern.com/profile.php?id=8379 on "Github":https://github.com/redbotxx.
+* cbe aka "CeBe":https://forum.textpattern.com/profile.php?id=76735 (Claire Brione) on "Github":https://github.com/ClaireBrione.
+* goe aka "goechsler":https://forum.textpattern.com/profile.php?id=173137 on "Github":https://github.com/goechsler.
 * jcr aka jools-r on "Github":https://github.com/jools-r.
-* mkp aka "michaelkpate":https://forum.textpattern.io/profile.php?id=109 (Michael K Pate) on "Github":https://github.com/michaelkpate.
-* oui aka "NicolasGraph":https://forum.textpattern.io/profile.php?id=15445 (Nicolas Morand) on "Github":https://github.com/NicolasGraph.
-* pat aka "Pat64":https://forum.textpattern.io/profile.php?id=7660 (Patrick Lefevre) on "Github":https://github.com/cara-tm.
-* rah aka "Gocom":https://forum.textpattern.io/profile.php?id=9632 (Jukka Svahn) on "Github":https://github.com/gocom.
-* smd aka "Bloke":https://forum.textpattern.io/profile.php?id=8181 (Stef Dawson) on "Github":https://github.com/Bloke.
+* mkp aka "michaelkpate":https://forum.textpattern.com/profile.php?id=109 (Michael K Pate) on "Github":https://github.com/michaelkpate.
+* oui aka "NicolasGraph":https://forum.textpattern.com/profile.php?id=15445 (Nicolas Morand) on "Github":https://github.com/NicolasGraph.
+* pat aka "Pat64":https://forum.textpattern.com/profile.php?id=7660 (Patrick Lefevre) on "Github":https://github.com/cara-tm.
+* rah aka "Gocom":https://forum.textpattern.com/profile.php?id=9632 (Jukka Svahn) on "Github":https://github.com/gocom.
+* smd aka "Bloke":https://forum.textpattern.com/profile.php?id=8181 (Stef Dawson) on "Github":https://github.com/Bloke.
 
 h3(#blogs). Blogs
 
