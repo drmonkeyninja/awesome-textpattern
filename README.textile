@@ -135,7 +135,7 @@ h2(#themes). Themes
 
 h3(#back-end). Back-end
 
-* "Hive theme design patterns":http://design-patterns.textpattern.io/docs/ - Core designer guidelines for themes and plugins developers.
+* "Hive theme design patterns":https://design-patterns.textpattern.com/docs/ - Core designer guidelines for themes and plugins developers.
 * "jQuery UI theme repo":https://github.com/textpattern/textpattern-jquery-ui-theme - The jQuery UI theme used within the Textpattern admin-side.
 
 h3(#front-end). Front-end
